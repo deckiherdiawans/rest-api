@@ -1,0 +1,17 @@
+[
+    {
+        "name": "Decki Herdiawan Soepandi",
+        "age": 26,
+        "nrp": "160323012",
+        "graduated": true,
+        "hobby": [
+            "Movies",
+            "Games",
+            "Coding"
+        ],
+        "teacher": {
+            "teacher1": "Aji Diyantoro",
+            "teacher2": "Andi Victor Pakpahan"
+        }
+    }
+]

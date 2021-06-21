@@ -1,2 +1,2 @@
 # rest-api
-Learn basic of REST API.
+Learn basic REST API.
